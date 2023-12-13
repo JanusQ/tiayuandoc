@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: http://janusq.zju.edu.cn/#/admin/documentManage/tiayuandoc/sitemap.xml
