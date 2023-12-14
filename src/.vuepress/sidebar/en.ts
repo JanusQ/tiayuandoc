@@ -3,7 +3,7 @@ import { sidebar } from "vuepress-theme-hope"
 export const enSidebar = sidebar({
   "/": [
     {
-      text: "docs",
+      text: "quantum",
       icon: "laptop-code",
       prefix: "quantum/",
       link: "quantum/",

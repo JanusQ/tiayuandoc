@@ -27,6 +27,8 @@
 
 ![Alt text](/image/image-1.png)
 
+# 主题颜色更改 ![Alt text](/image/theme.png)
+
 
 ## 添加文件后使用以下命令重启 不然侧边栏可能加载不出来
 `npm run docs:clean-dev`
@@ -39,4 +41,4 @@
 
 
 ## 部署项目 
-直接push到master分支 等待几分钟即可
+直接push到main分支 等待几分钟即可

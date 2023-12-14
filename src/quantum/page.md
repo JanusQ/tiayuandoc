@@ -1,6 +1,6 @@
 ---
 # This is the title of the article
-title: one
+title: page
 # This is the icon of the page
 icon: file
 # This control sidebar order
@@ -30,7 +30,7 @@ Content before `more` comment is regarded as page excerpt.
 
 <!-- more -->
 
-## Page Information
+## Page 888888999
 
 You can set page information in Markdown's Frontmatter.
 
